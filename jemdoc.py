@@ -1,5 +1,5 @@
+# coding=gbk
 #!/usr/bin/env python
-
 """jemdoc version 0.7.3, 2012-11-27."""
 
 # Copyright (C) 2007-2012 Jacob Mattingley (jacobm@stanford.edu).
@@ -136,6 +136,8 @@ def standardconf():
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+  <meta name="keywords" content="Yuqi Yang, Yu-Qi Yang, Tsinghua University"> 
+  <meta name="description" content="Yuqi Yang&#39;s home page">
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   
   [defaultcss]
@@ -143,7 +145,7 @@ def standardconf():
   
   [windowtitle]
   # used in header for window title.
-  <title>|</title>
+  <title>Yuqi Yang - Homepage</title>
 
   [fwtitlestart]
   <div id="fwtitle">
