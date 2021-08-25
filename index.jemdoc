@@ -18,16 +18,16 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 
 == Publications
 ~~~
-{}{img_left}{figures/blank.jpg}{profile picture}{200px}{150px}{}
-*Interpolation-Aware Padding for 3D Sparse Convolutional Neural Networks* \n
+{}{img_left}{figures/padding.png}{profile picture}{200px}{115px}{}
+[https://arxiv.org/abs/2108.06925 *Interpolation-Aware Padding for 3D Sparse Convolutional Neural Networks*] \n
 *Yu-Qi Yang*, [https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu] \n 
 International Conference on Computer Vision (ICCV), 2021 \n
-\[Code\]\[Arxiv\] [project/padding.html \[Project\]]\n
+\[Code\][https://arxiv.org/abs/2108.06925 \[Arxiv\]] [project/padding.html \[Project\]]\n
 ~~~
 
 
 ~~~
-{}{img_left}{figures/spline.jpg}{profile picture}{200px}{150px}{}
+{}{img_left}{figures/spline.jpg}{profile picture}{200px}{130px}{}
 [https://arxiv.org/abs/2106.01553 *Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields*] \n
 [https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu], *Yu-Qi Yang*, and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong] \n 
 International Joint Conferences on Artificial Intelligence (IJCAI), 2021 \n
@@ -35,7 +35,7 @@ International Joint Conferences on Artificial Intelligence (IJCAI), 2021 \n
 ~~~
 
 ~~~
-{}{img_left}{figures/unsupervise.jpg}{profile picture}{200}{150px}{}
+{}{img_left}{figures/unsupervise.jpg}{profile picture}{200px}{120px}{}
 [https://arxiv.org/abs/2008.01068 *Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination*] \n
 [https://wang-ps.github.io/ Peng-Shuai Wang], *Yu-Qi Yang*, Qian-Fang Zou, Zhirong Wu, [https://xueyuhanlang.github.io/ Yang Liu] and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong] \n 
 AAAI Conference on Artificial Intelligence (AAAI), 2021 \n
@@ -43,7 +43,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021 \n
 ~~~
 
 ~~~
-{}{img_left}{figures/surfaceCNN.jpg}{profile picture}{200}{150px}{}
+{}{img_left}{figures/surfaceCNN.jpg}{profile picture}{200px}{143px}{}
 [https://arxiv.org/abs/1808.04952 *PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frame* ]\n
 *Yuqi Yang*, Shilin Liu, Hao Pan, [https://xueyuhanlang.github.io/ Yang Liu], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong]\n 
 Computer Vision and Pattern Recognition (CVPR), 2020 \n

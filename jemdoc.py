@@ -135,7 +135,6 @@ def standardconf():
     "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
-  <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta name="keywords" content="Yuqi Yang, Yu-Qi Yang, Tsinghua University" /> 
   <meta name="description" content="Yuqi Yang&#39;s home page" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
