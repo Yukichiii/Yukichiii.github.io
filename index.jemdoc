@@ -11,8 +11,8 @@ Email: yangyq18(AT)mails.tsinghua.edu.cn \n
 
 == Biography
 I am a third-year Ph.D. candidate of the Institute for Advanced Study, Tsinghua University, supervised by Dr. [https://www.microsoft.com/en-us/research/people/bainguo/ Baining Guo]
-Currently, I'm a research intern at Microsoft Research Asia, supervised by Dr. [https://wang-ps.github.io/ Peng-Shuai Wang], Dr. [https://xueyuhanlang.github.io/ Yang Liu] and Dr. [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong]. 
-Before that, I received my Bachelor's degree from University of Science and Technology of China University in 2018.
+Currently, I'm a research intern at Microsoft Research Asia, supervised by Dr. [https://wang-ps.github.io/ Peng-Shuai Wang], Dr. [https://xueyuhanlang.github.io/ Yang Liu] and Dr. [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong]. 
+Before that, I received my Bachelor's degree from University of Science and Technology of China in 2018.
 
 My research interest includes efficient 3D convolution and 3D unsupervised learning.
 
@@ -22,16 +22,16 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 [https://arxiv.org/abs/2108.06925 *Interpolation-Aware Padding for 3D Sparse Convolutional Neural Networks*] \n
 *Yu-Qi Yang*, [https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu] \n 
 International Conference on Computer Vision (ICCV), 2021 \n
-\[Code\][https://arxiv.org/abs/2108.06925 \[Arxiv\]] [project/padding.html \[Project\]]\n
+\[Code\][https://arxiv.org/abs/2108.06925 \[Arxiv\]] [project/padding.html \[Project\]](Preparing)\n
 ~~~
 
 
 ~~~
 {}{img_left}{figures/spline.jpg}{profile picture}{200px}{130px}{}
 [https://arxiv.org/abs/2106.01553 *Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields*] \n
-[https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu], *Yu-Qi Yang*, and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong] \n 
+[https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu], *Yu-Qi Yang*, and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong] \n 
 International Joint Conferences on Artificial Intelligence (IJCAI), 2021 \n
-\[Code\][https://arxiv.org/abs/2106.01553 \[Arxiv\]] \n
+[https://github.com/microsoft/SplinePosEnc \[Code\]][https://arxiv.org/abs/2106.01553 \[Arxiv\]] \n
 ~~~
 
 ~~~
@@ -45,7 +45,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021 \n
 ~~~
 {}{img_left}{figures/surfaceCNN.jpg}{profile picture}{200px}{143px}{}
 [https://arxiv.org/abs/1808.04952 *PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frame* ]\n
-*Yuqi Yang*, Shilin Liu, Hao Pan, [https://xueyuhanlang.github.io/ Yang Liu], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong]\n 
+*Yuqi Yang*, Shilin Liu, Hao Pan, [https://xueyuhanlang.github.io/ Yang Liu], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong]\n 
 Computer Vision and Pattern Recognition (CVPR), 2020 \n
 [https://github.com/msraig/pfcnn \[Code\]][https://arxiv.org/abs/1808.04952 \[Arxiv\]] [http://haopan.github.io/surfacecnn.html \[Project\]]\n
 ~~~
