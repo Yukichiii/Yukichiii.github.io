@@ -211,6 +211,7 @@ def standardconf():
   </table>
   
   [nomenulastbit]
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=vfn3QRDyHa5GwkStI_jUoVnBhh--hNtIhfdFQ9W9FmI'></script>
   </div>
   
   [bodyend]
