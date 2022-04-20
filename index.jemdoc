@@ -18,6 +18,14 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 
 == Publications
 ~~~
+{}{img_left}{figures/semi-supervised-3d-segmentation.png}{profile picture}{200px}{115px}{}
+[https://isunchy.github.io/projects/semi_supervised_3d_segmentation.html *Semi-Supervised 3D Shape Segmentation with Multilevel Consistency and Part Substitution*] \n
+[https://isunchy.github.io/ Chun-Yu Sun], *Yu-Qi Yang*, [https://haoxiangguo.cn/ Hao-Xiang Guo], [https://wang-ps.github.io/ Peng-Shuai Wang], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong], [https://xueyuhanlang.github.io/ Yang Liu] and Heung-Yeung Shum\n 
+Computational Visual Media, 2022 \n
+[https://github.com/isunchy/semi_supervised_3d_segmentation \[Code\]][https://arxiv.org/abs/2204.08824 \[Arxiv\]] [https://isunchy.github.io/projects/semi_supervised_3d_segmentation.html \[Project\]]\n
+~~~
+
+~~~
 {}{img_left}{figures/padding.png}{profile picture}{200px}{115px}{}
 [https://arxiv.org/abs/2108.06925 *Interpolation-Aware Padding for 3D Sparse Convolutional Neural Networks*] \n
 *Yu-Qi Yang*, [https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu] \n 
