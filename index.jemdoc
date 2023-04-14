@@ -1,4 +1,4 @@
-# jemdoc: {index.html}, nofooter  
+# jemdoc: title{Yuqi Yang - Homepage}, nofooter  
 ~~~
 {}{img_left}{photos/photo.jpg}{photo}{250px}{250px}{}
 = Yuqi Yang (杨钰琦)
@@ -11,7 +11,7 @@ Email: yangyq18(AT)mails.tsinghua.edu.cn \n
 
 == Biography
 I am a fifth-year Ph.D. candidate of the Institute for Advanced Study, Tsinghua University, supervised by Dr. [https://www.microsoft.com/en-us/research/people/bainguo/ Baining Guo]
-Currently, I'm a research intern at Microsoft Research Asia, supervised by Dr. [https://wang-ps.github.io/ Peng-Shuai Wang], Dr. [https://xueyuhanlang.github.io/ Yang Liu] and Dr. [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong]. 
+Currently, I'm a research intern at Microsoft Research Asia, supervised by Dr. [https://wang-ps.github.io/ Peng-Shuai Wang], Dr. [https://xueyuhanlang.github.io/ Yang Liu] and Dr. [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong]. 
 Before that, I received my Bachelor's degree from University of Science and Technology of China in 2018.
 
 My research interest includes efficient 3D convolution and 3D unsupervised learning.
@@ -20,7 +20,7 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 ~~~
 {}{img_left}{figures/semi-supervised-3d-segmentation.png}{profile picture}{200px}{115px}{}
 [https://isunchy.github.io/projects/semi_supervised_3d_segmentation.html *Semi-Supervised 3D Shape Segmentation with Multilevel Consistency and Part Substitution*] \n
-[https://isunchy.github.io/ Chun-Yu Sun], *Yu-Qi Yang*, [https://haoxiangguo.cn/ Hao-Xiang Guo], [https://wang-ps.github.io/ Peng-Shuai Wang], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong], [https://xueyuhanlang.github.io/ Yang Liu] and Heung-Yeung Shum\n 
+[https://isunchy.github.io/ Chun-Yu Sun], *Yu-Qi Yang*, [https://haoxiangguo.cn/ Hao-Xiang Guo], [https://wang-ps.github.io/ Peng-Shuai Wang], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong], [https://xueyuhanlang.github.io/ Yang Liu] and Heung-Yeung Shum\n 
 Computational Visual Media, 2022 \n
 [https://github.com/isunchy/semi_supervised_3d_segmentation \[Code\]][https://arxiv.org/abs/2204.08824 \[Arxiv\]] [https://isunchy.github.io/projects/semi_supervised_3d_segmentation.html \[Project\]]\n
 ~~~
@@ -37,7 +37,7 @@ International Conference on Computer Vision (ICCV), 2021 \n
 ~~~
 {}{img_left}{figures/spline.jpg}{profile picture}{200px}{130px}{}
 [https://arxiv.org/abs/2106.01553 *Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields*] \n
-[https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu], *Yu-Qi Yang*, and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong] \n 
+[https://wang-ps.github.io/ Peng-Shuai Wang], [https://xueyuhanlang.github.io/ Yang Liu], *Yu-Qi Yang*, and [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong] \n 
 International Joint Conferences on Artificial Intelligence (IJCAI), 2021 \n
 [https://github.com/microsoft/SplinePosEnc \[Code\]][https://arxiv.org/abs/2106.01553 \[Arxiv\]] \n
 ~~~
@@ -45,7 +45,7 @@ International Joint Conferences on Artificial Intelligence (IJCAI), 2021 \n
 ~~~
 {}{img_left}{figures/unsupervise.jpg}{profile picture}{200px}{120px}{}
 [https://arxiv.org/abs/2008.01068 *Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination*] \n
-[https://wang-ps.github.io/ Peng-Shuai Wang], *Yu-Qi Yang*, Qian-Fang Zou, Zhirong Wu, [https://xueyuhanlang.github.io/ Yang Liu] and [http://research.microsoft.com/en-us/um/people/xtong/xtong.html XinTong] \n 
+[https://wang-ps.github.io/ Peng-Shuai Wang], *Yu-Qi Yang*, Qian-Fang Zou, Zhirong Wu, [https://xueyuhanlang.github.io/ Yang Liu] and [https://www.microsoft.com/en-us/research/people/xtong/ XinTong] \n 
 AAAI Conference on Artificial Intelligence (AAAI), 2021 \n
 [https://github.com/microsoft/O-CNN \[Code\]][https://arxiv.org/abs/2008.01068 \[Arxiv\]] [https://wang-ps.github.io/pretrain.html \[Project\]]\n
 ~~~
@@ -53,7 +53,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021 \n
 ~~~
 {}{img_left}{figures/surfaceCNN.jpg}{profile picture}{200px}{143px}{}
 [https://arxiv.org/abs/1808.04952 *PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frame* ]\n
-*Yuqi Yang*, Shilin Liu, Hao Pan, [https://xueyuhanlang.github.io/ Yang Liu], [http://research.microsoft.com/en-us/um/people/xtong/xtong.html Xin Tong]\n 
+*Yuqi Yang*, Shilin Liu, [https://haopan.github.io/ Hao Pan], [https://xueyuhanlang.github.io/ Yang Liu], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong]\n 
 Computer Vision and Pattern Recognition (CVPR), 2020 \n
 [https://github.com/msraig/pfcnn \[Code\]][https://arxiv.org/abs/1808.04952 \[Arxiv\]] [http://haopan.github.io/surfacecnn.html \[Project\]]\n
 ~~~

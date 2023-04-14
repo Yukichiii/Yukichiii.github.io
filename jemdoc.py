@@ -144,7 +144,7 @@ def standardconf():
   
   [windowtitle]
   # used in header for window title.
-  <title>Yuqi Yang - Homepage</title>
+  <title>|</title>
 
   [fwtitlestart]
   <div id="fwtitle">
@@ -1305,7 +1305,6 @@ def procfile(f):
       title = re.sub(' *(<br />)|(&nbsp;) *', ' ', t)
   else:
     t = None
-
   #if title:
   hb(f.outf, f.conf['windowtitle'], title)
 
