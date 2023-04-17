@@ -18,6 +18,14 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 
 == Publications
 ~~~
+{}{img_left}{figures/blank.jpg}{profile picture}{200px}{115px}{}
+[https://arxiv.org/abs/2304.06906 *Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding*] \n
+*Yu-Qi Yang*, Yu-Xiao Guo, Jian-Yu Xiong, [https://xueyuhanlang.github.io/ Yang Liu], [https://haopan.github.io/ Hao Pan], [https://wang-ps.github.io/ Peng-Shuai Wang], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong], [https://www.microsoft.com/en-us/research/people/bainguo/ Baining Guo] \n
+Arxiv, 2023 \n
+[https://github.com/microsoft/Swin3D \[Code\]][https://arxiv.org/abs/2304.06906 \[Arxiv\]] [project/swin3D/swin3D.html \[Project\]]\n
+~~~
+
+~~~
 {}{img_left}{figures/semi-supervised-3d-segmentation.png}{profile picture}{200px}{115px}{}
 [https://isunchy.github.io/projects/semi_supervised_3d_segmentation.html *Semi-Supervised 3D Shape Segmentation with Multilevel Consistency and Part Substitution*] \n
 [https://isunchy.github.io/ Chun-Yu Sun], *Yu-Qi Yang*, [https://haoxiangguo.cn/ Hao-Xiang Guo], [https://wang-ps.github.io/ Peng-Shuai Wang], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong], [https://xueyuhanlang.github.io/ Yang Liu] and Heung-Yeung Shum\n 
