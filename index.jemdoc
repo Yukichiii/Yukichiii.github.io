@@ -18,11 +18,19 @@ My research interest includes efficient 3D convolution and 3D unsupervised learn
 
 == Publications
 ~~~
-{}{img_left}{figures/blank.jpg}{profile picture}{200px}{115px}{}
+{}{img_left}{figures/swin3d.jpg}{profile picture}{200}{180}{}
 [https://arxiv.org/abs/2304.06906 *Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding*] \n
 *Yu-Qi Yang*, [https://yuxiaoguo.github.io/ Yu-Xiao Guo], Jian-Yu Xiong, [https://xueyuhanlang.github.io/ Yang Liu], [https://haopan.github.io/ Hao Pan], [https://wang-ps.github.io/ Peng-Shuai Wang], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong], [https://www.microsoft.com/en-us/research/people/bainguo/ Baining Guo] \n
 Arxiv, 2023 \n
 [https://github.com/microsoft/Swin3D \[Code\]][https://arxiv.org/abs/2304.06906 \[Arxiv\]] [project/swin3D/swin3D.html \[Project\]]\n
+~~~
+
+~~~
+{}{img_left}{figures/maskfeat3d.png}{profile picture}{200px}{160}{}
+[https://arxiv.org/abs/2304.06911 *3D Feature Prediction for Masked-AutoEncoder-Based Point Cloud Pretraining*] \n
+[https://www.cs.utexas.edu/~siming/ Siming Yan], *Yuqi Yang*, [https://yuxiaoguo.github.io/ Yu-Xiao Guo], [https://haopan.github.io/ Hao Pan], [https://wang-ps.github.io/ Peng-Shuai Wang], [https://www.microsoft.com/en-us/research/people/xtong/ Xin Tong], [https://xueyuhanlang.github.io/ Yang Liu], [https://www.cs.utexas.edu/~huangqx/ Qixing Huang] \n
+Arxiv, 2023 \n
+[https://arxiv.org/abs/2304.06911 \[Arxiv\]]\n
 ~~~
 
 ~~~
